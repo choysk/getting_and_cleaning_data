@@ -1,0 +1,88 @@
+Variable Name,Description
+subject,Subject id - values from 1 to 30. Subjects who took part in the experiments.
+activity,"6 different activities: 
+1. WALKING
+2. WALKING_UPSTAIRS
+3. WALKING_DOWNSTAIRS
+4. SITTING
+5. STANDING
+6. LAYING"
+tBodyAcc-mean()-X,Averaged value for each subject and activity pair 
+tBodyAcc-mean()-Y,Averaged value for each subject and activity pair 
+tBodyAcc-mean()-Z,Averaged value for each subject and activity pair 
+tGravityAcc-mean()-X,Averaged value for each subject and activity pair 
+tGravityAcc-mean()-Y,Averaged value for each subject and activity pair 
+tGravityAcc-mean()-Z,Averaged value for each subject and activity pair 
+tBodyAccJerk-mean()-X,Averaged value for each subject and activity pair 
+tBodyAccJerk-mean()-Y,Averaged value for each subject and activity pair 
+tBodyAccJerk-mean()-Z,Averaged value for each subject and activity pair 
+tBodyGyro-mean()-X,Averaged value for each subject and activity pair 
+tBodyGyro-mean()-Y,Averaged value for each subject and activity pair 
+tBodyGyro-mean()-Z,Averaged value for each subject and activity pair 
+tBodyGyroJerk-mean()-X,Averaged value for each subject and activity pair 
+tBodyGyroJerk-mean()-Y,Averaged value for each subject and activity pair 
+tBodyGyroJerk-mean()-Z,Averaged value for each subject and activity pair 
+tBodyAccMag-mean(),Averaged value for each subject and activity pair 
+tGravityAccMag-mean(),Averaged value for each subject and activity pair 
+tBodyAccJerkMag-mean(),Averaged value for each subject and activity pair 
+tBodyGyroMag-mean(),Averaged value for each subject and activity pair 
+tBodyGyroJerkMag-mean(),Averaged value for each subject and activity pair 
+fBodyAcc-mean()-X,Averaged value for each subject and activity pair 
+fBodyAcc-mean()-Y,Averaged value for each subject and activity pair 
+fBodyAcc-mean()-Z,Averaged value for each subject and activity pair 
+fBodyAcc-meanFreq()-X,Averaged value for each subject and activity pair 
+fBodyAcc-meanFreq()-Y,Averaged value for each subject and activity pair 
+fBodyAcc-meanFreq()-Z,Averaged value for each subject and activity pair 
+fBodyAccJerk-mean()-X,Averaged value for each subject and activity pair 
+fBodyAccJerk-mean()-Y,Averaged value for each subject and activity pair 
+fBodyAccJerk-mean()-Z,Averaged value for each subject and activity pair 
+fBodyAccJerk-meanFreq()-X,Averaged value for each subject and activity pair 
+fBodyAccJerk-meanFreq()-Y,Averaged value for each subject and activity pair 
+fBodyAccJerk-meanFreq()-Z,Averaged value for each subject and activity pair 
+fBodyGyro-mean()-X,Averaged value for each subject and activity pair 
+fBodyGyro-mean()-Y,Averaged value for each subject and activity pair 
+fBodyGyro-mean()-Z,Averaged value for each subject and activity pair 
+fBodyGyro-meanFreq()-X,Averaged value for each subject and activity pair 
+fBodyGyro-meanFreq()-Y,Averaged value for each subject and activity pair 
+fBodyGyro-meanFreq()-Z,Averaged value for each subject and activity pair 
+fBodyAccMag-mean(),Averaged value for each subject and activity pair 
+fBodyAccMag-meanFreq(),Averaged value for each subject and activity pair 
+fBodyBodyAccJerkMag-mean(),Averaged value for each subject and activity pair 
+fBodyBodyAccJerkMag-meanFreq(),Averaged value for each subject and activity pair 
+fBodyBodyGyroMag-mean(),Averaged value for each subject and activity pair 
+fBodyBodyGyroMag-meanFreq(),Averaged value for each subject and activity pair 
+fBodyBodyGyroJerkMag-mean(),Averaged value for each subject and activity pair 
+fBodyBodyGyroJerkMag-meanFreq(),Averaged value for each subject and activity pair 
+tBodyAcc-std()-X,Averaged value for each subject and activity pair 
+tBodyAcc-std()-Y,Averaged value for each subject and activity pair 
+tBodyAcc-std()-Z,Averaged value for each subject and activity pair 
+tGravityAcc-std()-X,Averaged value for each subject and activity pair 
+tGravityAcc-std()-Y,Averaged value for each subject and activity pair 
+tGravityAcc-std()-Z,Averaged value for each subject and activity pair 
+tBodyAccJerk-std()-X,Averaged value for each subject and activity pair 
+tBodyAccJerk-std()-Y,Averaged value for each subject and activity pair 
+tBodyAccJerk-std()-Z,Averaged value for each subject and activity pair 
+tBodyGyro-std()-X,Averaged value for each subject and activity pair 
+tBodyGyro-std()-Y,Averaged value for each subject and activity pair 
+tBodyGyro-std()-Z,Averaged value for each subject and activity pair 
+tBodyGyroJerk-std()-X,Averaged value for each subject and activity pair 
+tBodyGyroJerk-std()-Y,Averaged value for each subject and activity pair 
+tBodyGyroJerk-std()-Z,Averaged value for each subject and activity pair 
+tBodyAccMag-std(),Averaged value for each subject and activity pair 
+tGravityAccMag-std(),Averaged value for each subject and activity pair 
+tBodyAccJerkMag-std(),Averaged value for each subject and activity pair 
+tBodyGyroMag-std(),Averaged value for each subject and activity pair 
+tBodyGyroJerkMag-std(),Averaged value for each subject and activity pair 
+fBodyAcc-std()-X,Averaged value for each subject and activity pair 
+fBodyAcc-std()-Y,Averaged value for each subject and activity pair 
+fBodyAcc-std()-Z,Averaged value for each subject and activity pair 
+fBodyAccJerk-std()-X,Averaged value for each subject and activity pair 
+fBodyAccJerk-std()-Y,Averaged value for each subject and activity pair 
+fBodyAccJerk-std()-Z,Averaged value for each subject and activity pair 
+fBodyGyro-std()-X,Averaged value for each subject and activity pair 
+fBodyGyro-std()-Y,Averaged value for each subject and activity pair 
+fBodyGyro-std()-Z,Averaged value for each subject and activity pair 
+fBodyAccMag-std(),Averaged value for each subject and activity pair 
+fBodyBodyAccJerkMag-std(),Averaged value for each subject and activity pair 
+fBodyBodyGyroMag-std(),Averaged value for each subject and activity pair 
+fBodyBodyGyroJerkMag-std(),Averaged value for each subject and activity pair 
